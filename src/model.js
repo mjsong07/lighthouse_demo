@@ -30,7 +30,7 @@ const model = [
   },
   {
     name: 'Brrto',
-    image: `https://dn-dora-document.qbox.me/pexels-clement.jpg?imageView2/1`, //https://dn-odum9helk.qbox.me/resource/gogopher.jpg?imageView2/1/w/200/h/200/q/55
+    image: `https://dn-dora-document.qbox.me/pexels-clement.jpg?imageView2/1/`, //https://dn-dora-document.qbox.me/pexels-clement.jpg?imageView2/1/w/300
     body: 'Portable noms',
     route: 'brrto',
     pros: [
